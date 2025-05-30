@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By KAISEN",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
